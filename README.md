@@ -18,4 +18,4 @@ This project focuses on optimizing delivery routes across selected Indian states
 
 ## How to Run
 1. Clone this repository.
-2. Install required libraries
+2. Install required libraries: pip install -r requirements.txt
